@@ -52,4 +52,4 @@ exploreBtn2.addEventListener('click', function () {
     behavior: "smooth"
   });
 });
-//# sourceMappingURL=Page1.dev.js.map
+sourceMappingURL=Page1.dev.js.map
